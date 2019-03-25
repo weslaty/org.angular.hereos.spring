@@ -1,0 +1,6 @@
+org\angular\hereos\org\angular\hereos\spring\App.class
+org\angular\hereos\org\angular\hereos\spring\TourOfHeroesController.class
+org\angular\hereos\org\angular\hereos\spring\IHeroService.class
+org\angular\hereos\org\angular\hereos\spring\Hero.class
+org\angular\hereos\org\angular\hereos\spring\HeroRepository.class
+org\angular\hereos\org\angular\hereos\spring\HeroService.class
